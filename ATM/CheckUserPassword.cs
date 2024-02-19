@@ -9,6 +9,8 @@
             if (user.PinCode == enteredPinCode)
             {
                 Console.WriteLine("Password correct. Access granted.");
+                Console.WriteLine($"Your Balance Is {user.Balance}$\n");
+                BankingChoice.UserChoice(user);
                 return true;
             }
             else

@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ATM
+﻿namespace ATM
 {
-    internal class WithDrawal
+    public class WithDrawal
     {
+        public static void WithDrawMoney()
+        {
+
+        }
     }
 }
