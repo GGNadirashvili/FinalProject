@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{7FEC5722-21E6-4D02-BDDC-6404EF55DB84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{56CD18A7-4EC6-41F0-9592-8FED88FF5801}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "GuessTheNumber\GuessTheNumber.csproj", "{56CD18A7-4EC6-41F0-9592-8FED88FF5801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM", "ATM\ATM.csproj", "{64B602EB-77F3-4B56-B459-E7E10CFDAAED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{56CD18A7-4EC6-41F0-9592-8FED88FF5801}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56CD18A7-4EC6-41F0-9592-8FED88FF5801}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56CD18A7-4EC6-41F0-9592-8FED88FF5801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B602EB-77F3-4B56-B459-E7E10CFDAAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B602EB-77F3-4B56-B459-E7E10CFDAAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B602EB-77F3-4B56-B459-E7E10CFDAAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B602EB-77F3-4B56-B459-E7E10CFDAAED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
