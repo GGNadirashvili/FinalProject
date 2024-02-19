@@ -17,7 +17,7 @@
             switch(userInput)
             {
                 case 1:
-                    WithDrawal.WithDrawMoney();
+                    WithDraw.WithDrawMoney(user);
                     break;
                     case 2:
                     Deposit.DepositMoney(user);

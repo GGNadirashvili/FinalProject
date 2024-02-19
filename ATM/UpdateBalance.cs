@@ -21,8 +21,6 @@ namespace ATM
                     string updatedJson = JsonConvert.SerializeObject(users);
 
                     File.WriteAllText(filePath, updatedJson);
-
-                    Console.WriteLine($"Balance updated in file: {filePath}");
                 }
                 else
                 {
