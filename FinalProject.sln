@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessTheNumber", "GuessTheN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATM", "ATM\ATM.csproj", "{64B602EB-77F3-4B56-B459-E7E10CFDAAED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManager", "BookManager\BookManager.csproj", "{937C8C9A-BECF-4FD0-B7A8-D18D24C92803}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManager", "BookManager\BookManager.csproj", "{D852BBDE-D4D6-4C1A-89BC-DBE3A058F95B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{64B602EB-77F3-4B56-B459-E7E10CFDAAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64B602EB-77F3-4B56-B459-E7E10CFDAAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64B602EB-77F3-4B56-B459-E7E10CFDAAED}.Release|Any CPU.Build.0 = Release|Any CPU
-		{937C8C9A-BECF-4FD0-B7A8-D18D24C92803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{937C8C9A-BECF-4FD0-B7A8-D18D24C92803}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{937C8C9A-BECF-4FD0-B7A8-D18D24C92803}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{937C8C9A-BECF-4FD0-B7A8-D18D24C92803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D852BBDE-D4D6-4C1A-89BC-DBE3A058F95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D852BBDE-D4D6-4C1A-89BC-DBE3A058F95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D852BBDE-D4D6-4C1A-89BC-DBE3A058F95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D852BBDE-D4D6-4C1A-89BC-DBE3A058F95B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
